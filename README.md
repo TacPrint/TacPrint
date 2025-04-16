@@ -1,0 +1,45 @@
+# Täç Print
+
+Täç Print — профессиональный сервис по заправке и ремонту **чёрно-белых принтеров** в городе **Анев**, Туркменистан.
+
+## Слоган
+**Заправим быстро, оптимально, качественно. Всегда оставайтесь с нами — и мы покажем вам надёжность нашего магазина.**
+
+---
+
+## Услуги / Hyzmatlar
+
+- **Заправка картриджей HP и Canon** — от **40 до 50 манат**  
+  **HP we Canon printerleriniň zaprawkasy** — **40-50 manat**
+
+- **Заправка картриджей Samsung** — от **60 до 70 манат**  
+  **Samsung printerleriniň zaprawkasy** — **60-70 manat**
+
+- **Ремонт, чистка, прошивка** — от **50 манат**  
+  **Bejeriş, arassalaýyş, programma hyzmatlary** — **50 manatdan**
+
+- **Выезд мастера** — **30 манат**  
+  **Usta öý hyzmaty** — **30 manat**
+
+---
+
+## Почему выбирают нас? / Näme üçin biz?
+
+- Быстрое и качественное обслуживание  
+  Çalt we ýokary hilli hyzmat
+- Доступные цены  
+  Elýeterli bahalar
+- Работа только с ч/б принтерами  
+  Diňe gara-ak printerler bilen işleýäris
+- Выезд по городу Анев  
+  Anew şäheri boýunça hyzmat
+
+---
+
+## Контакты / Habarlaşmak üçin
+
+- **WhatsApp:** +993 63 834934  
+- **Адрес:** Köpgürlü Söwda Merkezi, B14 dükan, Anew, Ahal welaýaty  
+- **Время работы:** 9:00 - 20:00 (Без выходных)
+
+---
